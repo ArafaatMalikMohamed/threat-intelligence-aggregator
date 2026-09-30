@@ -1,0 +1,4 @@
+indicator,type,severity
+185.220.101.5,ip,high
+malicious-domain.com,domain,high
+phishing-attack.org,domain,medium
